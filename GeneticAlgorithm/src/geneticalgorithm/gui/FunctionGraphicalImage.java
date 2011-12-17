@@ -1,7 +1,7 @@
 package geneticalgorithm.gui;
 
-import geneticalgorithm.Parameters;
-import geneticalgorithm.Population;
+import geneticalgorithm.genetics.Parameters;
+import geneticalgorithm.genetics.Population;
 
 import java.awt.Canvas;
 import java.awt.Color;

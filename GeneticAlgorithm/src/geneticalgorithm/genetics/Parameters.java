@@ -1,4 +1,4 @@
-package geneticalgorithm;
+package geneticalgorithm.genetics;
 
 public class Parameters implements Function {
 	public int N;// dimensiunea populatiei
@@ -14,7 +14,8 @@ public class Parameters implements Function {
 	public int nr_iteratii;
 	public int nr_fct;
 
-	Parameters(int N, int precizie, double PM, double PC, double A, double B) {
+	public Parameters(int N, int precizie, double PM, double PC, double A,
+			double B) {
 		this.N = N;
 		this.precizie = precizie;
 		this.PM = PM;

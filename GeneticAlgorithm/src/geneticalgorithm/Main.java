@@ -1,5 +1,7 @@
 package geneticalgorithm;
 
+import geneticalgorithm.genetics.Parameters;
+import geneticalgorithm.genetics.Population;
 import geneticalgorithm.gui.GUI;
 
 public class Main {

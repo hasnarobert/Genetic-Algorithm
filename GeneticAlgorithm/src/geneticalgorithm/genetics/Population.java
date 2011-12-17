@@ -1,4 +1,4 @@
-package geneticalgorithm;
+package geneticalgorithm.genetics;
 
 import java.util.ArrayList;
 import java.util.Collections;
